@@ -1,0 +1,22 @@
+:root {
+    --primary-color: #7B61FF;
+    --primary-font-size: 16px;
+}
+.d-inline-block {
+    display: inline-block;
+}
+.ml-0 {
+    margin-left: 0 !important;
+}
+.pt-160 {
+    padding-top: 160px;
+}
+.pb-160 {
+    padding-bottom: 160px;
+}
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
